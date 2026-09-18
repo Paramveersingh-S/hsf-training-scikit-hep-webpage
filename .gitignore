@@ -20,3 +20,6 @@ Gemfile.lock
 _build
 
 *.root
+
+# Notebook-generated output images
+skhep-tutorial/higgs_mass_fit.png
